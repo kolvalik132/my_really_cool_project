@@ -4,6 +4,7 @@ hola
 asdasd
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 prueba
 =======
 lalala
@@ -13,3 +14,7 @@ hi
 >>>>>>> foo_feature
 
 mas cosas
+=======
+hi
+algo mas
+>>>>>>> foo_feature
